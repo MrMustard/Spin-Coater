@@ -1,0 +1,58 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=CN?(IDC_MALE_6V)
+Added Component: Designator=HL1(DRV5033)
+Added Component: Designator=LED2(LED0805)
+Added Component: Designator=LED?(LED0805)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=U?(IC485)
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=CN?-1
+Added Pin To Net: NetName=3.3V Pin=CN?-6
+Added Pin To Net: NetName=3.3V Pin=HL1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=U?-2
+Added Pin To Net: NetName=3.3V Pin=U?-3
+Added Pin To Net: NetName=3.3V Pin=U?-4
+Added Pin To Net: NetName=3.3V Pin=U?-8
+Added Net: Name=3.3V
+Added Pin To Net: NetName=A Pin=CN?-3
+Added Pin To Net: NetName=A Pin=R2-1
+Added Pin To Net: NetName=A Pin=U?-6
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=CN?-4
+Added Pin To Net: NetName=B Pin=R2-2
+Added Pin To Net: NetName=B Pin=U?-7
+Added Net: Name=B
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-5
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=HL1-3
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Class: Name=ESQUEMATICO SENSOR RPM
+Added Room: Name=ESQUEMATICO SENSOR RPM

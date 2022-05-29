@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB SENSOR RPM.PcbDoc]
+   Generated File[PCB SENSOR RPM.TXT]
+   Generated File[PCB SENSOR RPM.LDP]
+   Generated File[PCB SENSOR RPM.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:55:28 PM On 4/13/2022
